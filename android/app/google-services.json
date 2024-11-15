@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940930660264",
+    "project_id": "firabaseapp-65cf2",
+    "storage_bucket": "firabaseapp-65cf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940930660264:android:d1dccab05f1350b4308f9d",
+        "android_client_info": {
+          "package_name": "com.rayka.firebasenewapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-f9NxMBMiIw4SW1wQCgm3C5jJ2-ZmdT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
